@@ -1,0 +1,6 @@
+{
+  "name": "Library Management System",
+  "description": "A clean, modern, and responsive website to manage book inventories, track student borrow loans, calculate deadlines, and oversee overdue activities using local storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
